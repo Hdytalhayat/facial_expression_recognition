@@ -8,7 +8,6 @@ import socket
 from collections import Counter, deque
 import threading
 import time
-import mouse
 from cvzone.HandTrackingModule import HandDetector
 
 
