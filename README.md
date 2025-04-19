@@ -50,6 +50,7 @@ Ikuti langkah-langkah berikut untuk menyiapkan proyek di komputer lokal Anda:
 ## How to Use
 
 Setelah instalasi selesai dan virtual environment aktif, jalankan aplikasi dengan perintah berikut:
+*pilih salah satu antara nomor 1 atau nomor 2
 
 1.  **Jalankan Server:**
     ```bash
