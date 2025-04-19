@@ -37,8 +37,7 @@ Ikuti langkah-langkah berikut untuk menyiapkan proyek di komputer lokal Anda:
     # Aktifkan virtual environment
     # Windows (Command Prompt/PowerShell):
     .\.venv\Scripts\activate
-    # Linux/macOS (bash/zsh):
-    source .venv/bin/activate
+   
     ```
     Anda akan melihat `(.venv)` di awal prompt terminal jika aktivasi berhasil.
 
